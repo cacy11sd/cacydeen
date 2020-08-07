@@ -1,0 +1,98 @@
+html{
+	scroll-behavior:smooth;
+	}
+	body{
+	font-family: 'Inconsolata', monospace;
+	font-size:2.5rem;
+
+}
+
+
+#mainNav .navbar-brand {
+	font-size:2.5rem;
+	color:#00242B;
+}
+#mainNav .nav-link{
+	color:#00242B;
+
+}
+#mainNav a:hover{
+	color:#E0FF4F;
+
+}
+
+#about-link{
+	scroll-behavior: smooth;
+}
+#mainNav{
+	border-bottom: 1px solid #00242B;
+	color:#00242B;
+
+}
+
+
+#home {
+	background: #FF6663;
+	height: 700px;
+
+}
+h1 {
+	font-size:96px;
+	color: #E0FF4F;
+
+}
+h2{
+	font-size:2.5rem;
+}
+.social{
+	color:#00242B;
+}
+.social :hover {
+	color:#E0FF4F;
+}
+
+ #about{
+	background:#00242B;
+}
+
+	#about h1{
+	color:#E0FF4F;
+	border-bottom: 1px solid #E0FF4F;
+}
+	#about h2{
+		color:#FF6663;
+		height: 628px;
+		left: 720px;
+		top: 421px;
+	}
+
+	#skills{
+		background:#E0FF4F;
+		
+	}
+	#skills h1{
+		color:#00242B;
+		border-bottom:1px solid #FF6663;
+	}
+	#skills h2{
+		color:#00242B;
+
+	}
+	#contact{
+		background:#FF6663;
+	}
+	#contact h1{
+		color:#E0FF4F;
+		border-bottom:1px solid #E0FF4F;
+	}
+	#contact h2 {
+		color:#00242B;
+	}
+	#links {
+		background:#00242B;
+		color:#E0FF4F;
+		font-size: 24px;
+	}
+
+
+	}
